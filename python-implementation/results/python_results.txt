@@ -1,0 +1,6 @@
+Insertion sort average time:  137.31226564407348
+Insertion sort standard deviation:  1.0181604753538012
+Merge sort average time:  0.1650185203552246
+Merge sort standard deviation:  0.0002750318578358462
+Quick sort average time:  0.12676045417785645
+Quick sort standard deviation:  0.002330789285870072
