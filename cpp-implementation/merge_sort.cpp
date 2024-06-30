@@ -69,6 +69,7 @@ int main()
         auto end = std::chrono::steady_clock::now();
 
         std::chrono::duration<double> elapsed = end - start;
+        std::cout << "Merge Sort #" << i << " iteration, execution time: " << std::chrono::duration<double>(elapsed).count() << " seconds" << std::endl;
         executionTimes[i] = elapsed.count();
     }
 
