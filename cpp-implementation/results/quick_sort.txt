@@ -48,6 +48,3 @@ Quick Sort #46 iteration, execution time: 0.0149232 seconds
 Quick Sort #47 iteration, execution time: 0.0146726 seconds
 Quick Sort #48 iteration, execution time: 0.0145505 seconds
 Quick Sort #49 iteration, execution time: 0.0149203 seconds
-
-Quick Sort: Average execution time: 0.0153377 seconds
-Quick Sort: Standard deviation: 0.00331618 seconds

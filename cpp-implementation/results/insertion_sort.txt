@@ -48,6 +48,3 @@ Insertion Sort #46 iteration, execution time: 11.3503 seconds
 Insertion Sort #47 iteration, execution time: 11.3901 seconds
 Insertion Sort #48 iteration, execution time: 11.356 seconds
 Insertion Sort #49 iteration, execution time: 11.3433 seconds
-
-Insertion Sort: Average execution time: 11.3718 seconds
-Insertion Sort: Standard deviation: 0.0344297 seconds

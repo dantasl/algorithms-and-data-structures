@@ -48,6 +48,3 @@ Merge Sort #46 iteration, execution time: 0.184518 seconds
 Merge Sort #47 iteration, execution time: 0.186261 seconds
 Merge Sort #48 iteration, execution time: 0.187271 seconds
 Merge Sort #49 iteration, execution time: 0.186945 seconds
-
-Merge Sort: Average execution time: 0.18651 seconds
-Merge Sort: Standard deviation: 0.00525205 seconds

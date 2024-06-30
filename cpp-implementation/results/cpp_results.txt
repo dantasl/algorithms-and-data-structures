@@ -1,0 +1,6 @@
+Insertion Sort: Average execution time: 11.3718 seconds
+Insertion Sort: Standard deviation: 0.0344297 seconds
+Merge Sort: Average execution time: 0.18651 seconds
+Merge Sort: Standard deviation: 0.00525205 seconds
+Quick Sort: Average execution time: 0.0153377 seconds
+Quick Sort: Standard deviation: 0.00331618 seconds
