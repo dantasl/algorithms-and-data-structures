@@ -13,12 +13,7 @@ for i in range(50):
     start_time = time.time()
     sorted_arr = insertion_sort(arr)
     end_time = time.time()
-    
-    content = f"Time taken for insertion sort, { i } iteration: { end_time - start_time } seconds \n"
-    with open ('insertion_sort_times.txt', 'a') as file:
-        file.write(content)
-    
-    print(content)
+    print(f"Time taken for insertion sort, { i } iteration: { end_time - start_time } seconds.")
     insertion_sort_times.append(end_time - start_time)
 
 # Merge sort
@@ -27,12 +22,7 @@ for i in range(50):
     start_time = time.time()
     sorted_arr = merge_sort(arr)
     end_time = time.time()
-    
-    content = f"Time taken for merge sort, { i } iteration: { end_time - start_time } seconds \n"
-    with open ('merge_sort_times.txt', 'a') as file:
-        file.write(content)
-    
-    print(content)
+    print(f"Time taken for merge sort, { i } iteration: { end_time - start_time } seconds.")
     merge_sort_times.append(end_time - start_time)
 
 # Quick sort
@@ -41,12 +31,7 @@ for i in range(50):
     start_time = time.time()
     sorted_arr = quick_sort(arr)
     end_time = time.time()
-
-    content = f"Time taken for quick sort, { i } iteration: { end_time - start_time } seconds \n"
-    with open ('quick_sort_times.txt', 'a') as file:
-        file.write(content)
-
-    print(content)
+    print(f"Time taken for quick sort, { i } iteration: { end_time - start_time } seconds.")
     quick_sort_times.append(end_time - start_time)
 
 # Calculate the average time taken for each algorithm
